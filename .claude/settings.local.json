@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright",
+      "Bash(reg query *)",
+      "Bash(npx playwright *)",
+      "Bash(npm run *)"
+    ],
+    "deny": []
+  }
+}
